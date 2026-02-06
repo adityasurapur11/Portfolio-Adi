@@ -1,0 +1,14 @@
+Adi
+Creative Developer & Designer
+
+[Contact Info Placeholder]
+
+EXPERIENCE
+- Freelance Developer (2022-Present)
+- Senior Frontend Engineer at TechCorp (2020-2022)
+
+SKILLS
+- HTML, CSS, JavaScript, React, Node.js
+
+EDUCATION
+- BS in Computer Science
